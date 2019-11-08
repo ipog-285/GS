@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: takari-lifecycle-plugin
+Implementation-Version: 1.13.9
+Archiver-Version: Provisio Archiver
+Built-By: root
+Specification-Title: takari-lifecycle-plugin
+Implementation-Vendor-Id: io.takari.maven.plugins
+Created-By: Takari Inc.
+Build-Jdk: 1.8.0_111-internal
+Specification-Version: 1.13.9
+
